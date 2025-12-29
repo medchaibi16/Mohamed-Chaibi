@@ -103,6 +103,47 @@ I am currently working on:
 
 ---
 
+## Internship Outreach Emails
+
+**Cold outreach (initial email)**
+
+```
+Subject: Exploring internship opportunities in human-centered AI
+
+Hello [Name],
+
+My name is Mohamed Chaibi, a final-year CS student focused on human-centered AI and intelligent automation. I’m impressed by [company/lab]’s work on [specific project/area] and would love to contribute as an intern.
+
+- Relevant work: Student Tutor (AI-powered learning assistant), dyncompressor (dynamic compression system)
+- Skills: Python, C#, Node/Express, MongoDB, AI API integration
+- Availability: Remote, open to paid or unpaid internships
+
+Could we schedule a short call to discuss how I might help your team? I’ve attached my CV and portfolio for context. Thank you for your time.
+
+Best regards,  
+Mohamed Chaibi  
+medchaibi965@proton.me | github.com/medchaibi16
+```
+
+**Follow-up (3–5 business days later)**
+
+```
+Subject: Quick follow-up on internship interest
+
+Hello [Name],
+
+I’m following up on my note about a potential internship focused on human-centered AI or intelligent automation. I remain excited about [company/lab]’s work on [specific project/area] and would appreciate the chance to discuss how I can contribute.
+
+If there’s someone else I should contact, I’d be grateful for an introduction.
+
+Thank you for your consideration.
+
+Best,  
+Mohamed
+```
+
+---
+
 ## Contact
 
 Email: medchaibi965@proton.me  
